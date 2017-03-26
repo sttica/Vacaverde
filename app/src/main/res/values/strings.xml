@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vaca Verde</string>
+    <string name="name">Vaca Verde</string>
+    <string name="adress">Uhlandstraße 40\n76135 Karlsruhe</string>
+    <string name="adressMaps">http://maps.google.com/maps?q=Uhlandstraße 40, 76135 Karlsruhe, Germany</string>
+    <string name="open">Mi. bis Sa.	 ab 18 Uhr\nSo. ab 17 Uhr\nMo. &amp; Di. Ruhetag</string>
+    <string name="phone">+49721 89 33 77 89</string>
+    <string name="rate">Bewerte uns auf YELP</string>
+    <string name="menu">Wochenkarte</string>
+    <string name="menuURL">http://www.vacaverde.de/essen.html</string>
+    <string name="yelpURL">https://www.yelp.de/biz/vaca-verde-karlsruhe</string>
+    <string name="about">Im Vaca Verde (grüne Kuh) kochen wir grün, d.h. wir kochen traditionell ohne Verwendung von Fertigprodukten oder Tiefkühlware. Alles ist hausgemacht und noch echte Handarbeit. Darauf sind wir sehr stolz und freuen uns sehr, wenn es unseren Gästen schmeckt.\n\nEine klassische Speisekarte sucht man im Vaca Verde vergeblich, stattdessen bieten wir Euch eine wöchentlich wechselnde Karte in Form unserer grünen Tafel, auf der wir Gerichte anbieten, die je nach Saison, Angebot und unserer Lust und Laune jede Woche neu entstehen. Wir bieten jede Woche aufs Neue sowohl raffinierte vegetarische Gerichte als auch eine Vielfalt an verschiedenen Fleischgerichten für Euch an.\n\nFür Sonderwünsche haben wir stets ein offenes Ohr, und wir versuchen diese auch gerne zu erfüllen, wenn es die Zeit zulässt und die Wartezeiten für alle anderen Gäste nicht zu sehr beeinflusst.
+    </string>
+
+</resources>
